@@ -6,3 +6,4 @@ const a=()=>{
 
 const b=()=>{
     alert("this is function b")
+}
